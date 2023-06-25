@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=choidaesig](https://solved.ac/choidaesig)
+[![Solved.acProfile](http://mazassumnida.wtf/api/generate_badge?boj=choidaesig](https://solved.ac/choidaesig)
 <!--
 **choidaesig/choidaesig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
